@@ -1,0 +1,4 @@
+rootProject.name = "QrReader"
+include ':app'
+include ':samples'
+include ':qrcodereaderview'
